@@ -10,6 +10,7 @@
     </properties>
     <modules>
         <module>champselect-ws</module>
-    <module>champselect-ui</module>
-  </modules>
+        <module>champselect-ui</module>
+        <module>champselect-datafarm</module>
+    </modules>
 </project>
